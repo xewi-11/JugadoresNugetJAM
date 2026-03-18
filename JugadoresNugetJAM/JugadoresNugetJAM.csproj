@@ -10,6 +10,7 @@
     <Description>Nuget que devuelve jugadores de un archivo xml</Description>
     <PackageIcon>kaneki.png</PackageIcon>
     <PackageTags>futbol;xewison;tajamar;futbol</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
